@@ -2,12 +2,12 @@
 
 **Stencils**
 
-- [Omnigraffle](SoarML.gstencil.zip)
-- [Visio](SoarML%20v2.0.vss)
+- [Omnigraffle](https://github.com/soartech/SoarML/raw/master/SoarML.gstencil.zip)
+- [Visio](https://github.com/soartech/SoarML/raw/master/SoarML%20v2.0.vss)
 
 ## Overview
 
-**See Also:** [October 2013 Tuesday Lunch Slides](Tank%20Soar%20Design.pdf)
+**See Also:** [October 2013 Tuesday Lunch Slides](https://github.com/soartech/SoarML/raw/master/Tank%20Soar%20Design.pdf)
 
 SoarML is a visual design language for Soar-based systems. 
 
